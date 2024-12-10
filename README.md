@@ -77,7 +77,6 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 <img width="824" alt="insta 8" src="https://github.com/user-attachments/assets/c5859011-80f8-40dc-9458-a3a3f0ff4f9a">
 <img width="782" alt="insta 9" src="https://github.com/user-attachments/assets/635feb24-9c3e-406b-a047-bda197eebdb0">
 <img width="771" alt="insta 10" src="https://github.com/user-attachments/assets/ceddf297-79a9-4684-833a-99c4e2c6fe23">
-<img width="743" alt="insta 1" src="https://github.com/user-attachments/assets/fd613406-bb12-4454-8976-5de56aabfd2d">
 <img width="361" alt="insta 2" src="https://github.com/user-attachments/assets/4cd748e4-72e0-4456-8b44-e3f930f2601f">
 <img width="818" alt="insta 3" src="https://github.com/user-attachments/assets/6d24d1e4-6996-4a7f-9f5d-1851b6eca887">
 
